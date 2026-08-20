@@ -1,1 +1,3 @@
-logout feature
+Hello from feature A and feature B
+Login feature
+Logout Feature
